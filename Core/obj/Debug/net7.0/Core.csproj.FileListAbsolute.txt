@@ -1,0 +1,12 @@
+/home/skylab-138/Videos/Incidencias/Core/bin/Debug/net7.0/Core.deps.json
+/home/skylab-138/Videos/Incidencias/Core/bin/Debug/net7.0/Core.dll
+/home/skylab-138/Videos/Incidencias/Core/bin/Debug/net7.0/Core.pdb
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/Core.dll
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/refint/Core.dll
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/Core.pdb
+/home/skylab-138/Videos/Incidencias/Core/obj/Debug/net7.0/ref/Core.dll
